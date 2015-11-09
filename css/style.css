@@ -1,0 +1,116 @@
+.header {
+	color: white;
+	background-color: #c8262b;
+	text-align: center;
+	font-family: Impact, sans-serif;
+	font-size: 70px;
+	padding: 20px 0 20px 0;
+}
+h2 {
+	text-align: left;
+	border: solid gray;
+	font-size: 20px;
+	font-weight: bolder;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 10px;
+	width: 98.4%;
+	
+}
+h3{ margin: 20px 0 20px 0;
+	text-align: center;
+	font-size:18px;
+	font-family: Helvetica;	
+	font-weight: bolder;
+	background-color: 
+}
+.campus:hover,.sports:hover,.Region:hover,.Arts:hover,.Opinion:hover,.Weekend:hover,.Multimedia:hover,.Specials:hover,.Directories:hover,.Classifieds:hover{
+	background-color: #c8262b
+}
+.dailybreif {
+	padding-left: 10px;
+	background-color: #c8262b;
+	border:solid grey;
+}
+.dailybreifing{
+	font-weight: bolder;
+	font-size: 30px;
+}
+h4{
+	font-weight: bolder;
+	font-size: 20px 
+}
+h5{
+	font-size: 25px;
+}
+p {
+	font-size: 15px;
+	margin-top: px;}
+.photo {
+	text-align: center;
+	border: solid black;
+	margin-top: 10px;
+}
+.photo2 {
+	padding: 100px;
+	border: solid black;
+	margin-top: 10px;
+}
+.adbox {
+	border: solid black;
+	padding-bottom: 570px;
+	text-align: center;
+}
+.bottom {
+	padding: 30px;
+	background-color: gray;
+}
+.kicker {
+	font-weight: bolder;
+	margin-bottom: 10px
+	}
+.footer {font-size: 15px;}
+@media (max-width: 600px) {
+	.show-desktop {
+		display: none;
+	}
+
+	.show-mobile {
+		display: block;
+	}
+.adbox {
+		font-size: 15px;
+		padding-bottom: 100px
+	}
+.photo {
+	text-align: center;
+	border: solid black;
+	margin-top: 10px;
+}
+.photo2 {
+	padding: 10px;
+	border: solid black;
+	margin-top: 10px;
+}
+h1 {
+		font-size: 15px;
+	}
+h2 {
+		font-size: 15px;
+	}
+h3 {
+		font-size: 15px;
+	}
+h4 {
+		font-size: 15px;
+	}
+h5 {
+		font-size: 15px;
+	}
+
+	p {
+		font-size: 10px;
+	}
+	body {
+		background-color: #394749;
+	}
