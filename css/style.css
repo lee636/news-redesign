@@ -38,10 +38,7 @@ h3{ margin: 20px 0 20px 0;
 	padding-bottom: 30px;
 	background-color: #c8262b;
 }
-.dailybreifing{
-	font-weight: bolder;
-	font-size: 30px;
-}
+
 h4{
 	font-weight: bolder;
 	font-size: 20px 
@@ -61,9 +58,6 @@ p {
 	padding: 100px;
 	border: solid black;
 	margin-top: 10px;
-}
-.adbox {
-	text-align: center;
 }
 
 .bottom {
