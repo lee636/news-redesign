@@ -6,16 +6,19 @@
 	font-size: 70px;
 	padding: 20px 0 20px 0;
 }
+
+.caption{font-size: 30px;
+	margin-top: 15px;
+	font-weight: normal;
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 15px; }
+
 h2 {
-	text-align: left;
-	border: solid gray;
-	font-size: 20px;
-	font-weight: bolder;
-	padding-top: 10px;
-	padding-bottom: 10px;
-	padding-left: 10px;
-	width: 98.4%;
-	
+	font-size: 18px;
+	margin-top: 15px;
+	font-weight: normal;
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 15px;
 }
 h3{ margin: 20px 0 20px 0;
 	text-align: center;
@@ -24,13 +27,16 @@ h3{ margin: 20px 0 20px 0;
 	font-weight: bolder;
 	background-color: 
 }
+.dailybreif1{font-size: 17px;
+	font-weight: bolder;}
+
 .campus:hover,.sports:hover,.Region:hover,.Arts:hover,.Opinion:hover,.Weekend:hover,.Multimedia:hover,.Specials:hover,.Directories:hover,.Classifieds:hover{
 	background-color: #c8262b
 }
 .dailybreif {
-	padding-left: 10px;
+	padding-left: 20px;
+	padding-bottom: 30px;
 	background-color: #c8262b;
-	border:solid grey;
 }
 .dailybreifing{
 	font-weight: bolder;
@@ -57,10 +63,9 @@ p {
 	margin-top: 10px;
 }
 .adbox {
-	border: solid black;
-	padding-bottom: 570px;
 	text-align: center;
 }
+
 .bottom {
 	padding: 30px;
 	background-color: gray;
@@ -80,18 +85,14 @@ p {
 	}
 .adbox {
 		font-size: 15px;
-		padding-bottom: 100px
-	}
+		padding-bottom: 100px;
+		float:left}
 .photo {
 	text-align: center;
 	border: solid black;
 	margin-top: 10px;
 }
-.photo2 {
-	padding: 10px;
-	border: solid black;
-	margin-top: 10px;
-}
+
 h1 {
 		font-size: 15px;
 	}
