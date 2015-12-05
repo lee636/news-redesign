@@ -5,7 +5,8 @@
 	font-family: Impact, sans-serif;
 	font-size: 70px;
 	padding: 20px 0 20px 0;
-}
+
+}	
 h2 {
 	text-align: left;
 	border: solid gray;
@@ -15,22 +16,44 @@ h2 {
 	padding-bottom: 10px;
 	padding-left: 10px;
 	width: 98.4%;
-	
 }
 h3{ margin: 20px 0 20px 0;
 	text-align: center;
 	font-size:18px;
 	font-family: Helvetica;	
 	font-weight: bolder;
-	background-color: 
+	background-color;
 }
+.ad{ margin-left: 65px;
+	position: absolute;
+	margin-top: 40px;}
+
 .campus:hover,.sports:hover,.Region:hover,.Arts:hover,.Opinion:hover,.Weekend:hover,.Multimedia:hover,.Specials:hover,.Directories:hover,.Classifieds:hover{
-	background-color: #c8262b
+	background-color: #c8262b;
+	
 }
+.articleimage{
+	padding-left: 450px
+}
+.article{
+	width: 500px;
+	text-align:justify;
+	padding-left: 430px
+}
+.articlehead{
+	width:450px;
+	font-size: 45px;
+	padding-left: 430px;
+	font-family: helvetica;
+	font-weight: bolder;
+}
+
 .dailybreif {
 	padding-left: 10px;
 	background-color: #c8262b;
-	border:solid grey;
+	border:solid gray;
+
+
 }
 .dailybreifing{
 	font-weight: bolder;
@@ -38,38 +61,43 @@ h3{ margin: 20px 0 20px 0;
 }
 h4{
 	font-weight: bolder;
-	font-size: 20px 
+	font-size: 20px;
 }
 h5{
 	font-size: 25px;
 }
 p {
 	font-size: 15px;
-	margin-top: px;}
+}
 .photo {
 	text-align: center;
-	border: solid black;
-	margin-top: 10px;
+	border: solid gray;
+	margin-top: 40px;
+	margin-left: 300px;
 }
 .photo2 {
-	padding: 100px;
+	padding-top:2px;
+	padding-left: 2px;
+	padding-right: 2px;
+	padding-bottom: 2px;
 	border: solid black;
-	margin-top: 10px;
-}
-.adbox {
-	border: solid black;
-	padding-bottom: 570px;
-	text-align: center;
 }
 .bottom {
-	padding: 30px;
+	padding: 100px;
 	background-color: gray;
 }
 .kicker {
 	font-weight: bolder;
-	margin-bottom: 10px
+	margin-left: 10px;
+	margin-top: 40px;
 	}
 .footer {font-size: 15px;}
+
+.total {
+	margin-top: 1200px;
+	position: absolute;
+}
+
 @media (max-width: 600px) {
 	.show-desktop {
 		display: none;
@@ -80,7 +108,7 @@ p {
 	}
 .adbox {
 		font-size: 15px;
-		padding-bottom: 100px
+		padding-bottom: 100px;
 	}
 .photo {
 	text-align: center;
@@ -91,6 +119,7 @@ p {
 	padding: 10px;
 	border: solid black;
 	margin-top: 10px;
+
 }
 h1 {
 		font-size: 15px;
