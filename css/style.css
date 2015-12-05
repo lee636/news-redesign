@@ -5,7 +5,6 @@
 	font-family: Impact, sans-serif;
 	font-size: 70px;
 	padding: 20px 0 20px 0;
-<<<<<<< HEAD
 }
 
 .caption{font-size: 30px;
@@ -20,8 +19,6 @@ h2 {
 	font-weight: normal;
 	font-family: 'Open Sans', sans-serif;
 	margin-bottom: 15px;
-=======
-
 }	
 h2 {
 	text-align: left;
@@ -32,7 +29,6 @@ h2 {
 	padding-bottom: 10px;
 	padding-left: 10px;
 	width: 98.4%;
->>>>>>> master
 }
 h3{ margin: 20px 0 20px 0;
 	text-align: center;
@@ -41,18 +37,16 @@ h3{ margin: 20px 0 20px 0;
 	font-weight: bolder;
 	background-color;
 }
-<<<<<<< HEAD
+
 .dailybreif1{font-size: 17px;
 	font-weight: bolder;}
-=======
+
 .ad{ margin-left: 65px;
 	position: absolute;
 	margin-top: 40px;}
->>>>>>> master
 
 .campus:hover,.sports:hover,.Region:hover,.Arts:hover,.Opinion:hover,.Weekend:hover,.Multimedia:hover,.Specials:hover,.Directories:hover,.Classifieds:hover{
 	background-color: #c8262b;
-	
 }
 .articleimage{
 	padding-left: 450px
@@ -74,16 +68,11 @@ h3{ margin: 20px 0 20px 0;
 	padding-left: 20px;
 	padding-bottom: 30px;
 	background-color: #c8262b;
-<<<<<<< HEAD
-=======
 	border:solid gray;
-
-
 }
 .dailybreifing{
 	font-weight: bolder;
 	font-size: 30px;
->>>>>>> master
 }
 
 h4{
@@ -103,20 +92,10 @@ p {
 	margin-left: 300px;
 }
 .photo2 {
-<<<<<<< HEAD
 	padding: 100px;
 	border: solid black;
 	margin-top: 10px;
 }
-
-=======
-	padding-top:2px;
-	padding-left: 2px;
-	padding-right: 2px;
-	padding-bottom: 2px;
-	border: solid black;
-}
->>>>>>> master
 .bottom {
 	padding: 100px;
 	background-color: gray;
@@ -144,26 +123,18 @@ p {
 .adbox {
 		font-size: 15px;
 		padding-bottom: 100px;
-<<<<<<< HEAD
 		float:left}
-=======
-	}
->>>>>>> master
 .photo {
 	text-align: center;
 	border: solid black;
 	margin-top: 10px;
 }
-<<<<<<< HEAD
-
-=======
 .photo2 {
 	padding: 10px;
 	border: solid black;
 	margin-top: 10px;
-
 }
->>>>>>> master
+
 h1 {
 		font-size: 15px;
 	}
@@ -180,9 +151,6 @@ h5 {
 		font-size: 15px;
 	}
 
-	p {
+p {
 		font-size: 10px;
-	}
-	body {
-		background-color: #394749;
 	}
